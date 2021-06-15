@@ -5,7 +5,7 @@
     Lien de référence:
                             https://phoenixnap.com/kb/install-spark-on-windows-10
                             
-### Installer Spark soous Linux (Ubuntu) 
+### Installer Spark sous Linux (Ubuntu) 
     Lien de référence:
                             https://phoenixnap.com/kb/install-spark-on-ubuntu
                             
