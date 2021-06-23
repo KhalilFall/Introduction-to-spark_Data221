@@ -26,7 +26,7 @@
                 * Donner un nom au cluster puis cliquer sur "Create Cluster"
                 
         3- Importation d'un notebook :               
-                * Tout d'abord télécharger les fichiers dans un répertoiore de votre chhoix
+                * Tout d'abord télécharger les fichiers dans un répertoiore de votre choix
                 * Dans la plateforme Databricks, sur le panel droiot, cliquer sur "Workspace"
                 * Dérouler l'option "Shared", puis choisissez "Import"
                 * Cliquer sur Browser et choisissez le fichier à importer puis Importer
