@@ -1,6 +1,6 @@
 # Introduction-to-spark_Data221
 
-> Webinaire organisé par la communauté Data221 (https://www.facebook.com/Data-221-100661041401188/) qui est une communauté composé de passionnés de la data avec des  profils assez dispersés de Data Scientists, Staticiens, Data Engineer ...
+> Webinaire organisé par la communauté Data221 (https://www.facebook.com/Data-221-100661041401188/) qui est une communauté de passionnés de la data avec des  profils assez diversifiés de Data Scientists, Staticiens, Data Engineer ...
 
 > Mes interventions sont disponibles sur youtube via les liens suivants
 > 
@@ -21,4 +21,10 @@
 
 * Importer les notebooks
 
-  1- C
+  1- Cliquer sur l'icone Notebook (1) puis sur la petite flêche à droite de Workspace (2) et finalement appuyer sur importer (3)
+  
+  <img src="https://github.com/KhalilFall/Introduction-to-spark_Data221/blob/main/Images/import_notebook_db_1.png" style="float: left;" alt="drawing" width="800"/>
+  
+  2- Choisir et importer le fichier
+  
+  <img src="https://github.com/KhalilFall/Introduction-to-spark_Data221/blob/main/Images/import_notebook_db_2.png" style="float: left;" alt="drawing" width="600"/>
