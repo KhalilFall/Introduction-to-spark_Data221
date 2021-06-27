@@ -28,3 +28,13 @@
   2- Choisir et importer le fichier
   
   <img src="https://github.com/KhalilFall/Introduction-to-spark_Data221/blob/main/Images/import_notebook_db_2.png" style="float: left;" alt="drawing" width="600"/>
+  
+* Créer un cluster
+  
+  1- Se rendre dans la page de création de cluster
+
+<img src="https://github.com/KhalilFall/Introduction-to-spark_Data221/blob/main/Images/compute.png" style="float: left;" alt="drawing" width="600"/>
+
+  2- Choisir un nom puis créer un cluster, je vous conseille de conserver les valeurs par défauts
+  
+  <img src="https://github.com/KhalilFall/Introduction-to-spark_Data221/blob/main/Images/create_cluster.png" style="float: left;" alt="drawing" width="600"/>
