@@ -11,9 +11,14 @@
 # Prérequis pour utiliser les notebooks présents dans le dossier __Notebooks__ dans la plateforme Databricks
 
 * Importer le fichier Data/titanic.csv dans DBFS (dans la plateforme databricks)
-  1- Cliquer sur le logo de Databricks
-  <img src="/files/join.png" style="float: left;" alt="drawing" width="500"/>
-  2- Drag et
+
+  1- Cliquer sur le logo de Databricks, pour aller dans la page d'acceuil de Databricks
+  
+  <img src="https://github.com/KhalilFall/Introduction-to-spark_Data221/blob/main/Images/databricks_home.png" style="float: left;" alt="drawing" width="800"/>
+  
+  2- Drag et Drop directement le fichier à importer sur la page ou cliquer sur "click to browse" et choisissez le fichier
 
 
 * Importer les notebooks
+
+  1- C
