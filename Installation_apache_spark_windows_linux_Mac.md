@@ -15,7 +15,7 @@
 
 
 
-## Utiliser la plateforme DataBricks
+## Utiliser la plateforme Databricks
 
         1- Créer un compte :  
                  * https://community.cloud.databricks.com/login.html, cliquer sur "Sign Up" puis créer un compte
